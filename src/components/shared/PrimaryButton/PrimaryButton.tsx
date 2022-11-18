@@ -1,5 +1,5 @@
 const PrimaryButton = () => {
-  return <button type="button">PrimaryButton</button>;
+  return <button type="button">PrimaryBtn</button>;
 };
 
 export default PrimaryButton;
